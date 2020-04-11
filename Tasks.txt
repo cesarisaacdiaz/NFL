@@ -1,0 +1,22 @@
+1. Platilla actual de los defilnes de miami con posiciones - Lider Adrian Realizado
+2. Cuantas intecepciones - Cuitla
+	Por equipo vs promedio de liga
+	Por Posición de Miami vs promedio de la liga
+	Por jugadores vs promedio de la liga
+	Por jugador de Miami vs promedio de la liga
+3. Cuantos Fambles  - Enrique
+	Por equipo de Miami vs promedio de liga
+	Por Posición de Miami vs promedio de la liga
+	Por jugadores vs promedio de la liga
+	Por jugador de Miami vs promedio de la liga
+4. Cuantos Sacks - Cesar
+	Por equipo vs promedio de liga
+	Por Posición de Miami vs promedio de la liga
+	Por jugadores vs promedio de la liga
+	Por jugador de Miami vs promedio de la liga
+
+Lo que necesitamos:
+DataFrame de Jugadores, Posicion y Equipos
+DataFrame de Equipo con Intercepciones, Fambles y Sacks
+DataFrame de Posicion con Intercepciones, Fambles y Sacks
+DataFrame por jugador de las posiciones para Intercepciones, Fambles y Sacks
