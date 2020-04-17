@@ -15,3 +15,6 @@ Which university has more ex-students that won a super-bowl?
 #Datasets to be used: Kaggle dataset:
 https://www.kaggle.com/toddsteussie/nfl-play-statistics-dataset-2004-to-present
 
+#Link to NFL Defense Analysis presentation on prezi plataform
+https://prezi.com/view/7pW19n0N57aS0fwdoZWf/
+
